@@ -1,4 +1,5 @@
-a=10
-b=90
-c=a-b
-print(c)
+defadd(a,b):
+	a=20
+	b=90
+	c=a-b
+	return c
